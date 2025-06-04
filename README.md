@@ -113,8 +113,8 @@ cargo run
 
 ```json
 {
-  "sender_id": "uuid",
-  "receiver_id": "uuid",
+  "sender_id": username,
+  "receiver_id": username,
   "message": "Hello!",
   "timestamp": "2025-06-04T12:00:00Z"
 }
